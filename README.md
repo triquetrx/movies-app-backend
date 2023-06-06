@@ -1,3 +1,5 @@
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40triquetrx)](https://twitter.com/triquetrx)
+
 # Movies Booking App
 
 This is backend of the application created by Zaid Khan(Triquetrx)
